@@ -1,0 +1,8 @@
+![Screenshot_2024-01-08-06-14-47-13_05423c4281e24cf8e81f00e800357595](https://github.com/ishankinger/Android-Trivia/assets/116195006/b6b4dcf0-6674-4b71-b926-c47005fb35f1)
+![Screenshot_2024-01-08-06-15-40-53_05423c4281e24cf8e81f00e800357595](https://github.com/ishankinger/Android-Trivia/assets/116195006/f7c00732-e08f-496e-bd81-bedddfc5a1fb)
+![Screenshot_2024-01-08-06-15-45-54_05423c4281e24cf8e81f00e800357595](https://github.com/ishankinger/Android-Trivia/assets/116195006/a838e03c-72e6-4944-a0b3-d52549f7bc0a)
+![Screenshot_2024-01-08-06-15-29-99_05423c4281e24cf8e81f00e800357595](https://github.com/ishankinger/Android-Trivia/assets/116195006/6dee354f-e23a-4d7f-8a37-fd1b8ce29130)
+![Screenshot_2024-01-08-06-15-33-88_05423c4281e24cf8e81f00e800357595](https://github.com/ishankinger/Android-Trivia/assets/116195006/626133ec-f2be-4ea6-ad8e-944ef3956069)
+![Screenshot_2024-01-08-06-14-54-11_05423c4281e24cf8e81f00e800357595](https://github.com/ishankinger/Android-Trivia/assets/116195006/31267b55-72c6-461e-aa7e-b4c0ff6652a9)
+![Screenshot_2024-01-08-06-15-04-48_05423c4281e24cf8e81f00e800357595](https://github.com/ishankinger/Android-Trivia/assets/116195006/df691d44-7058-4953-afd0-d2dbbbcd9a2e)
+![Screenshot_2024-01-08-06-15-21-85_05423c4281e24cf8e81f00e800357595](https://github.com/ishankinger/Android-Trivia/assets/116195006/25c4392f-829f-4911-ac25-3c5c5fd58660)
