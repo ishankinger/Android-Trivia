@@ -1,46 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <layout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools" >
 
-    <LinearLayout
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/titleConstraint"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
-
+        android:layout_height="match_parent">
 
         <ImageView
             android:id="@+id/imageView8"
-            android:layout_width="350dp"
-            android:layout_height="227dp"
-            android:layout_gravity="center"
-            android:src="@drawable/gamepic" />
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36dp"
+            android:src="@drawable/gamepic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/textView9"
-            android:layout_width="match_parent"
-            android:layout_height="110dp"
-            android:gravity="center_horizontal|center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
             android:text="@string/rules"
-            android:textColor="#131313"
-            android:textColorHint="#1E1D1D"
-            android:textSize="55sp" />
+            android:textAlignment="center"
+            android:textColor="#0B0A0A"
+            android:textSize="44sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView8" />
 
-        <ScrollView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="317dp"
+            android:layout_height="398dp"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="80dp"
+            android:text="@string/rules1"
+            android:textAlignment="textStart"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView9"
+            app:layout_constraintVertical_bias="0.0" />
 
-            <TextView
-                android:id="@+id/textView11"
-                android:layout_width="300dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:lineSpacingExtra="4sp"
-                android:text="@string/rules1"
-                android:textSize="22sp" />
-
-        </ScrollView>
-
-    </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
